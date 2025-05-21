@@ -1,0 +1,7 @@
+Activity,Activity Name,Crashed Duration,Normal Duration,Relaxed Duration,Crashed Cost,Normal Cost,Relaxed Cost
+1,Site Preparation,1,2,3,100,80,70
+2,Fence Construction,1,2,4,120,100,60
+3,Temporary House Construction,1,4,7,1000,800,600
+4,Electrical System Setup,1,2,3,800,600,400
+5,Water System Setup,1,2,5,600,400,200
+6,Storage House Construction,1,2,3,2000,1500,1200
